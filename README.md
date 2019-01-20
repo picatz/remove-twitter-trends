@@ -1,6 +1,6 @@
 # remove-twitter-trends
 
-This is a custom [Google Chrome](https://www.google.com/chrome/) extension that hides tailored twitter trends for a much more pleasent tweeting expierince.
+This is a custom [Google Chrome](https://www.google.com/chrome/) extension that hides tailored twitter trends for a much more pleasent tweeting experience.
 
 ## Installation
 
