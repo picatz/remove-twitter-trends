@@ -1,6 +1,6 @@
 {
     "manifest_version": 2,
-    "name": "rtt",
+    "name": "Remove Twitter Trends",
     "version": "1.0",
     "description": "Remove tailored twitter trends",
     "content_scripts": [
